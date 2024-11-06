@@ -7,7 +7,7 @@ setup(
     url='https://github.com/shuds13/math_quiz',
     author='Md Salahuddin Parvez',
     license='BSD 2-clause',
-    packages=['pyexample'],
+    packages=['math_quiz'],
     install_requires=['mpi4py>=2.0',
                       'numpy',                     
                       ],
