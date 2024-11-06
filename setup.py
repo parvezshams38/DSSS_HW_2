@@ -8,11 +8,6 @@ setup(
     author='Md Salahuddin Parvez',
     license='BSD 2-clause',
     packages=['math_quiz'],
-    entry_points={
-        "console_scripts": [
-            "math_quiz=math_quiz.math_quiz:math_quiz"
-        ]
-    },
     install_requires=['mpi4py>=2.0',
                       'numpy',                     
                       ],
